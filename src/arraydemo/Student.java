@@ -7,7 +7,6 @@ package arraydemo;
 /**
  * This is to show modification
  * @author NAAZMIN
- * This is to show revert commit
  */
 public class Student {
     private int sID;
